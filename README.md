@@ -81,6 +81,8 @@ Amb l’aplicació de texturització Quixel Mixer es poden combinar i modificar 
 
 Per últim, l’aplicació Quixel Bridge ens permet navegar, cercar, descarregar, importar i exportar elements de Megascans.
 
+![Megascans](https://cdn2.unrealengine.com/Unreal+Engine%2Fblog%2Funreal-engine-4-24-to-ship-with-free-quixel-megascans-unreal-studio-features-and-more%2FNews_OneUnrealEngine_blog_body_img2-1640x1000-6e9b8e0f9298449e78fe867233c8c2b98b6a8f8b.jpg)
+
 La finalitat d’aquesta biblioteca és posar a l'abast de tothom tots els seus materials per poder utilitzar-lo ja sigui per desenvolupar videojocs, pel·lícules i sèries, i simulacions. Aquesta és gratuïta tant per a ús personal com comercial per a projectes d’Unreal Engine.
 Els creadors de Megascans van viatjar durant cinc anys a tots els racons del planeta per realitzar escanejos i poder crear eines per ajudar als artistes en els seus projectes.
 
@@ -95,13 +97,18 @@ Per dur a terme tots aquests escanejos, els treballadors de Quixel van fer ús d
     * Restitució: s'apliquen girs, translacions i escales. D'aquesta manera s'assoleix un model de coordenades del terreny i s'hi inclou l'escalat de l'objecte per treballar amb mesures reals.
     * Rectificació: un cop aplicada l'orientació del feix de llum (tant interna com externa), s'aconsegueix la intersecció entre aquesta llum i el model digital del terreny (MDT) de l'espai a determinar.
 
+![Fotogrametria](https://www.surveywork.pe/imgs/business800.jpg)
+
 El 12 de novembre de 2019, es va anunciar que Quixel s’havia unit a la companyia d’Unreal Engine, Epic Games.
 > Crear contingut 3D fotorealista és un esforç car en el desenvolupament de videojocs i la producció de pel·lícules. En unir-se amb Quixel per fer que Megascans siguin gratuïts per a tot ús a Unreal Engine, aquest nivell d'art està ara disponible per a tothom, des dels estudis triple-A fins als indie.
 
 Va dir Tim Sweeney, fundador i CEO d'Epic Games.
 
+![Unreal Engine i Quixel](https://blog.megascans.se/wp-content/uploads/2021/05/bridgeinsideue5.jpg)
+
 Amb aquesta col·laboració tornem a veure la hibridació, concepte del qual hem parlat anteriorment, i que ens mostra com el software evoluciona i s’hibrida constantment, encara que no ens adonem.
 
+----
 
 ### Referències i Bibliografia
 
